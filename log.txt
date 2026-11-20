@@ -1,0 +1,29 @@
+commit 540cc9cfc28e7f384ea795a45d8bbfb05cac5adc
+Author: Samantha Cook <sc00278@my.westga.edu>
+Date:   Fri Nov 20 17:15:19 2026 -0500
+
+    adding documatation folder
+
+commit 90c503c9ae5eb8e197aa7cc9f1de044c62e6bc66
+Author: Samantha Cook <sc00278@my.westga.edu>
+Date:   Fri Nov 20 17:05:03 2026 -0500
+
+    setting up folders
+
+commit a9049f5186445b5cd0cd67bcc615efa868339668
+Author: Samantha Cook <sc00278@my.westga.edu>
+Date:   Fri Nov 20 16:57:41 2026 -0500
+
+    Add project description to README
+
+commit e05bb7dd0180ef23c885c33e28b6934cb5f62bbd
+Author: Samantha Cook <sc00278@my.westga.edu>
+Date:   Fri Nov 20 16:57:15 2026 -0500
+
+    Add .gitignore file
+
+commit c3daac0d105452bd2566e2740ac93d2a9b9c427d
+Author: Samantha Cook <sc00278@my.westga.edu>
+Date:   Fri Nov 20 16:54:46 2026 -0500
+
+    initial commit
